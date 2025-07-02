@@ -42,9 +42,9 @@ I am a versatilist AI professional who seamlessly adapts to roles like AI Engine
 <a href="https://pandas.pydata.org/" target="_blank">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" alt="Pandas" height="42px" align="left">
 </a>
-<a href="https://numpy.org/" target="_blank">
+<!-- <a href="https://numpy.org/" target="_blank">
   <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" height="42px" align="left">
-</a>
+</a> -->
 <a href="https://matplotlib.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="42px" align="left">
 </a>
@@ -77,12 +77,12 @@ I am a versatilist AI professional who seamlessly adapts to roles like AI Engine
 <a href="https://jupyter.org/" target="_blank">
   <img src="https://img.icons8.com/ios_filled/512/FFFFFF/jupyter.png" alt="Jupyter" height="42px" align="left">
 </a>
-<a href="https://firebase.google.com/" target="_blank">
+<!-- <a href="https://firebase.google.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="Firebase" height="42px" align="left">
-</a>
-<a href="https://git-scm.com/" target="_blank">
+</a> -->
+<!-- <a href="https://git-scm.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="Git" height="42px" align="left">
-</a>
+</a> -->
 
 </div>
 
