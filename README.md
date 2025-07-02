@@ -1,7 +1,8 @@
 ## Hey 👋, I'm Adarsh!
 <a href='https://www.linkedin.com/in/adarsh80/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://x.com/Adarshmishra564'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/akmishra809'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='https://leetcode.com/u/adarsh809/'><img align='left' alt="leetcode" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" height='18px'/></a>
+<a href='https://x.com/Adarshmishra564'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 
 
 I am a versatilist AI professional who seamlessly adapts to roles like AI Engineer 🤖, Data Analyst 📊, or GenAI Creator 🧬, depending on what the project demands. I enjoy exploring emerging technologies 💻—from building and training deep learning models, analyzing data for insights, to experimenting with Generative AI—and leveraging them to develop smart, real-world solutions 🛠️.
