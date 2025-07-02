@@ -31,70 +31,58 @@ I am a versatilist AI professional who seamlessly adapts to roles like AI Engine
 
 <!-- Core Languages & ML Frameworks -->
 <a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="Python" height="42px" style="margin-right: 60px;">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="Python" height="42px" align="left">
 </a>
 <a href="https://pytorch.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="PyTorch" height="42px" style="margin-right: 60px;">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="PyTorch" height="42px" align="left">
 </a>
 <a href="https://www.tensorflow.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="TensorFlow" height="42px" style="margin-right: 60px;">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="TensorFlow" height="42px" align="left">
 </a>
-<!-- <a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="42px" style="margin-right: 60px;">
-</a> -->
 <a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" alt="Pandas" height="42px" style="margin-right: 60px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" alt="Pandas" height="42px" align="left">
 </a>
 <a href="https://numpy.org/" target="_blank">
-  <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" height="42px" style="margin-right: 60px;">
+  <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" height="42px" align="left">
 </a>
 <a href="https://matplotlib.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="42px" style="margin-right: 60px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="42px" align="left">
 </a>
 
 <!-- GenAI Tools -->
 <a href="https://platform.openai.com/" target="_blank">
-  <img src="https://img.icons8.com/m_rounded/512/FFFFFF/chatgpt.png" alt="OpenAI" height="42px" style="margin-right: 60px;">
+  <img src="https://img.icons8.com/m_rounded/512/FFFFFF/chatgpt.png" alt="OpenAI" height="42px" align="left">
 </a>
 <a href="https://huggingface.co/" target="_blank">
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-pirate.png" alt="Hugging Face" height="42px" style="margin-right: 60px;">
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-pirate.png" alt="Hugging Face" height="42px" align="left">
 </a>
 
 <!-- MLOps -->
 <a href="https://mlflow.org/" target="_blank">
-  <img src="https://images.chainguard.dev/logos/mlflow.svg" alt="MLflow" height="42px" style="margin-right: 60px;">
+  <img src="https://images.chainguard.dev/logos/mlflow.svg" alt="MLflow" height="42px" align="left">
 </a>
 <a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" alt="Docker" height="42px" style="margin-right: 60px;">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" alt="Docker" height="42px" align="left">
 </a>
 
 <!-- Data Analytics -->
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://www.svgviewer.dev/static-svgs/414647/mysql.svg" alt="MySQL" height="42px" style="margin-right: 60px;">
+  <img src="https://www.svgviewer.dev/static-svgs/414647/mysql.svg" alt="MySQL" height="42px" align="left">
 </a>
-<!-- <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" height="42px" style="margin-right: 60px;">
-</a> -->
 <a href="https://www.tableau.com/" target="_blank">
-  <img src="https://img.icons8.com/ios7/600/FFFFFF/tableau-software.png" alt="Tableau" height="42px" style="margin-right: 60px;">
+  <img src="https://img.icons8.com/ios7/600/FFFFFF/tableau-software.png" alt="Tableau" height="42px" align="left">
 </a>
 
 <!-- Dev & UI Tools -->
 <a href="https://jupyter.org/" target="_blank">
-  <img src="https://img.icons8.com/ios_filled/512/FFFFFF/jupyter.png" alt="Jupyter" height="42px" style="margin-right: 60px;">
+  <img src="https://img.icons8.com/ios_filled/512/FFFFFF/jupyter.png" alt="Jupyter" height="42px" align="left">
 </a>
-<!-- <a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="React" height="42px" style="margin-right: 60px;">
-</a> -->
 <a href="https://firebase.google.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="Firebase" height="42px" style="margin-right: 60px;">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="Firebase" height="42px" align="left">
 </a>
 <a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="Git" height="42px" style="margin-right: 60px;">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="Git" height="42px" align="left">
 </a>
-<!-- <a href="https://www.figma.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="Figma" height="42px" style="margin-right: 60px;">
-</a> -->
 
 </div>
 
