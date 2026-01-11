@@ -1,110 +1,217 @@
-## Hey 👋, I'm Adarsh !
-<a href='https://www.linkedin.com/in/adarsh80/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/akmishra809'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
-<a href='https://x.com/Adarshmishra564'><img align='left' alt="twitter" src="https://img.icons8.com/color/512/twitterx--v2.png" height='18px'/></a>
-<!-- <a href='https://leetcode.com/u/adarsh809/'><img align='left' alt="leetcode" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" height='18px'/></a> -->
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsh809&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh809" /> </p>
+
+<p align="left">
+</p>
+
+ <!---
+iloveai-ml/iloveai-ml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+mario1    ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/10029fc5-555c-4091-bf94-bb2d6aa5b8bb)
+mario2PIC    ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/c1798bea-1811-48e2-a4f8-18a2aad430ee)
+minion colllege  ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/4aec661f-9008-4692-a2ba-05a5a675bbf0)
+nice computer ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/6340f5e7-d165-464f-9e5d-ca0e8b49c36f)
+neon cat ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/cdc8a3c4-4d82-4891-ba54-8fc7aa37a992)
+lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/assets/167196524/fcff8cb3-c67c-489e-b861-781bd051ecc2)
+![hacker](https://github.com/user-attachments/assets/9af41371-c948-4e7a-b34c-2e532eb6a973)
+![mariocoffesip](https://github.com/user-attachments/assets/48f0c4ee-0e98-4b83-8372-2451cc2013cf)
+![mancatplaygamecomputer](https://github.com/user-attachments/assets/c9a2810d-7fd2-4937-b1eb-9d117df95a92)
+![donkeykong](https://github.com/user-attachments/assets/1af4300c-57d3-4b67-a75d-6e824151a974)
+![kirbychilling](https://github.com/user-attachments/assets/e373fdb5-b22d-48dc-a100-da429f094391)
+![zelda](https://github.com/user-attachments/assets/29bb2ec1-bcdb-450f-801d-e70dfd6e99d1)
+![mansetupcodingplaying](https://github.com/user-attachments/assets/bc476c65-819a-4a2f-8fa1-d738d0cd5a1e)
+![technightscape](https://github.com/user-attachments/assets/a7fab717-11af-41a6-8a11-60fd908cfaa7)
+![chillingirl](https://github.com/user-attachments/assets/742fcb3a-76be-4480-aeac-919e7c53751a)
+![pixel-jeff-garden2](https://github.com/user-attachments/assets/5e3b8987-77bc-4983-8e14-73792e802ef1)
+![mariodj](https://github.com/user-attachments/assets/df74ba11-993e-419d-89cb-5313b3c42cee)
+![pixel-jeff-fortune-cat](https://github.com/user-attachments/assets/06556030-5221-4581-bcba-32af92dc8f14)
+![pixel-jeff-courage-dog](https://github.com/user-attachments/assets/964fcbba-a410-4fe5-a555-b7e6b44213a9)
+![babyyoda](https://github.com/user-attachments/assets/5152fb2b-2647-4929-815f-1493092257d0)
+![fitoopro](https://github.com/user-attachments/assets/82d63888-bc1e-408e-aecb-d6cfcce55b60)
+![ice](https://github.com/user-attachments/assets/dd7e3b71-53af-477f-b360-49caa99eb1df)
+![mario-srotate](https://github.com/user-attachments/assets/4194cf81-394b-4c1a-949f-beb54fcaea72)
+![mario-jump](https://github.com/user-attachments/assets/50fee777-e17c-4ddb-b8b8-c23152191086)
+
+![mario-walk](https://github.com/user-attachments/assets/a933d158-d4df-4b6a-935a-e950ee977bf9)
+![mario-world-superman](https://github.com/user-attachments/assets/2ab6c7bb-1009-4f02-bccf-e40455c9b789)
+![super-mario-world-yoshi](https://github.com/user-attachments/assets/9e2c6c8b-3391-4751-8bfc-ea2ad2d2a30a)
+![luigi walk](https://github.com/user-attachments/assets/8e24c01e-676f-48cd-b0a7-47d056d74743)
+--->
 
 
 
-I am a versatilist AI professional who seamlessly adapts to roles like AI Engineer 🤖, Data Analyst 📊, or GenAI Creator 🧬, depending on what the project demands. I enjoy exploring emerging technologies 💻—from building and training deep learning models, analyzing data for insights, to experimenting with Generative AI—and leveraging them to develop smart, real-world solutions 🛠️.
-<br/>
-<br/>
+# Welcome To My Github
+ ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/10029fc5-555c-4091-bf94-bb2d6aa5b8bb)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+👋 Hi, I’m Adarsh
+
+🧠 Building autonomous and intelligent systems at the intersection of AI and real-world data
+
+💻 This GitHub showcases projects I’ve built while exploring practical and experimental ideas
+
+📝 I enjoy working on projects that create real-world impact or are simply fun to build
+
+⚙️ My primary focus lies in AI/ML & Deep Learning, with experience across Time-Series, Computer Vision, NLP, LLMs, and related domains
+
+
+
+
+
+ <!---
+
+am highly interested in solving real world probblems with ML
+🎊Do check out my other Github account<a href="https://github.com/iloveai-ml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="iloveai-ml" height="30" width="40" /></a>
+I’m currently pursuing Btech CSE from RGIPT Bangalore
+RGIPT(An Institute of National Importance)
+⚙️ I mainly work in Machine Learning-Deep Learning specturm including Time-Series, CV, NLP, LLMs and more
+
+--->
+
+
+![super-mario-world-yoshi](https://github.com/user-attachments/assets/9e2c6c8b-3391-4751-8bfc-ea2ad2d2a30a)
+
+ <!---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shubhro-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhro-dev" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Have a look at:</h3>
+<p align="left">
+<a href="https://scholar.google.com/citations?user=rNBVr8gAAAAJ" target="blank"><img align="center" src="https://github.com/user-attachments/assets/d055a121-226c-4b00-820e-8700fef6d5ee" alt="shubhro-dev" height="40" width="40" /></a>
+<!--  <a href="https://instagram.com/shubhro_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhro_x" height="30" width="40" /></a> -->
+
+ <!---
+<a href="https://www.codechef.com/users/spearbolt" target="blank"><img align="center" src="https://github.com/user-attachments/assets/dcdca461-3977-4254-9ccc-111e323a437f" alt="spearbolt" height="40" width="40" /></a>
+</p> 
+
+
+
+
+https://www.researchgate.net/profile/Shubhro-Dev
+
+
+
+
+<a href="https://www.scopus.com/authid/detail.uri?authorId=59898515300" target="blank"><img align="center" src="https://github.com/user-attachments/assets/abb2e0fd-1551-481d-9dea-027c02fb22a8" alt="spearbolt" height="40" width="40" /></a>
+
+
+<a href="https://www.researchgate.net/profile/Shubhro-Dev" target="blank"><img align="center" src="https://github.com/user-attachments/assets/47f2e29a-dbfe-4c28-9e30-43d7a7bbb3a4" alt="spearbolt" height="40" width="40" /></a>
+
+
+
+
+
+--->
+<h3 align="left">Have a look at my:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/adarsh80/" target="_blank">
+    <img align="center" alt="LinkedIn" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         height="30" width="40" />
+  </a>
+
+  <a href="https://leetcode.com/u/adarsh809/" target="_blank">
+    <img align="center" alt="LeetCode"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
+         height="30" width="40" />
+  </a>
+
+  <a href="https://www.kaggle.com/akmishra809" target="_blank">
+    <img align="center" alt="Kaggle"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+         height="30" width="40" />
+  </a>
+
+  <a href="https://x.com/Adarshmishra564" target="_blank">
+    <img align="center" alt="X (Twitter)"
+         src="https://img.icons8.com/color/48/twitterx--v2.png"
+         height="30" width="40" />
+  </a>
+
   
-### 🧐 More About Me:
+</p>
 
-- 🔭 &nbsp; I’m currently working on **Smart Glasses Development**
-- 🤝 &nbsp; I’m looking to collaborate on [ICH Segmentation](https://github.com/Adarsh809/Few-Shot-Learning-for-ICH-Segmentation-CGNet/tree/main)
-- 🌱 &nbsp; I’m currently learning Agentic AI 🚀
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Adarsh809?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adarsh80/)
-- 📝 &nbsp; Checkout my [resume](Link)
-- 🧘‍♂️ &nbsp; Outside of tech, I love taking time to recharge—whether it’s through creative exploration, quiet reflection, or learning something completely new.
-<br>
+<h3 align="left">Languages & Tools </h3>
 
-### 🔨 Languages and Tools:
+<p align="left">
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <!-- Core Languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
 
-<!-- Core Languages & ML Frameworks -->
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="Python" height="42px" align="left">
-</a>
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="PyTorch" height="42px" align="left">
-</a>
-<a href="https://www.tensorflow.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="TensorFlow" height="42px" align="left">
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" alt="Pandas" height="42px" align="left">
-</a>
-<!-- <a href="https://numpy.org/" target="_blank">
-  <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" height="42px" align="left">
-</a> -->
-<a href="https://matplotlib.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="42px" align="left">
-</a>
+  <!-- ML / DL Frameworks -->
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
 
-<!-- GenAI Tools -->
-<a href="https://platform.openai.com/" target="_blank">
-  <img src="https://img.icons8.com/m_rounded/512/FFFFFF/chatgpt.png" alt="OpenAI" height="42px" align="left">
-</a>
-<a href="https://huggingface.co/" target="_blank">
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-pirate.png" alt="Hugging Face" height="42px" align="left">
-</a>
+  <!-- Data & Visualization -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
 
-<!-- MLOps -->
-<a href="https://mlflow.org/" target="_blank">
-  <img src="https://images.chainguard.dev/logos/mlflow.svg" alt="MLflow" height="42px" align="left">
-</a>
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" alt="Docker" height="42px" align="left">
-</a>
+  <!-- Computer Vision -->
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  </a>
 
-<!-- Data Analytics -->
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://www.svgviewer.dev/static-svgs/414647/mysql.svg" alt="MySQL" height="42px" align="left">
-</a>
-<a href="https://www.tableau.com/" target="_blank">
-  <img src="https://img.icons8.com/ios7/600/FFFFFF/tableau-software.png" alt="Tableau" height="42px" align="left">
-</a>
+  <!-- Databases -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  </a>
 
-<!-- Dev & UI Tools -->
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://img.icons8.com/ios_filled/512/FFFFFF/jupyter.png" alt="Jupyter" height="42px" align="left">
-</a>
-<!-- <a href="https://firebase.google.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="Firebase" height="42px" align="left">
-</a> -->
-<!-- <a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="Git" height="42px" align="left">
-</a> -->
+  <!-- Backend & Infra -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  </a>
 
-</div>
+</p>
 
-<br>
-<!-- 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/6340f5e7-d165-464f-9e5d-ca0e8b49c36f) 
 
-</a>
 
-<br>
 
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+<!---
+iloveai-ml/iloveai-ml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+mario1    ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/10029fc5-555c-4091-bf94-bb2d6aa5b8bb)
+mario2PIC    ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/c1798bea-1811-48e2-a4f8-18a2aad430ee)
+minion colllege  ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/4aec661f-9008-4692-a2ba-05a5a675bbf0)
+nice computer ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/6340f5e7-d165-464f-9e5d-ca0e8b49c36f)
+neon cat ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/cdc8a3c4-4d82-4891-ba54-8fc7aa37a992)
+lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/assets/167196524/fcff8cb3-c67c-489e-b861-781bd051ecc2)
 
--->
-
+--->
